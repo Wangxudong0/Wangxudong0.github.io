@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wangxudong / Site Title"
+title                    : "Wangxudong / Academic page"
 title_separator          : "-"
 name                     : &name "Wangxudong"
-description              : &description "personal description"
+description              : &description "Do something"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wangxudong0/Wangxudong0.github.io
@@ -22,7 +22,7 @@ repository               : "Wangxudong0/Wangxudong0.github.io
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wangxudong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai"
